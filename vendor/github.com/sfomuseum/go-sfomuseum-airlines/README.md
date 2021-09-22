@@ -1,6 +1,10 @@
 # go-sfomuseum-airlines
 
-Work in progress. This should be considered "to work, until it doesn't".
+Go package for working with airlines, in a SFO Museum context.
+
+## Documentation
+
+Documentation is incomplete.
 
 ## Tools
 
@@ -15,7 +19,4 @@ TE ANZ NEW ZEALAND Tasman Empire Airways Limited
 
 $> ./bin/lookup AC
 AC ACA AIR CANADA Air Canada
-
-$> ./bin/lookup BATMAN
- EXH BATMAN G5 Executive
 ```
